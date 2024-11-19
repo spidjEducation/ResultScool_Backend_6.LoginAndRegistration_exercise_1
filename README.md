@@ -1,0 +1,3 @@
+- [Страница с заявками](http://http://localhost:5173/appointments)
+- [Страница заявки](http://http://localhost:5173/appointment)
+- [Страница авторизации](http://http://localhost:5173/login) username:dima@ru.ru password:Qwerty123
